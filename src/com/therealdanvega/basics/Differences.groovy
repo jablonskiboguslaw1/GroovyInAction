@@ -1,4 +1,4 @@
-package com.therealdanvega.numbers;
+package com.therealdanvega.basics;
 
 class Differences {
 

@@ -1,4 +1,4 @@
-package com.therealdanvega.numbers
+package com.therealdanvega.basics
 
 class StringOperations {
 
@@ -41,8 +41,10 @@ class StringOperations {
         //dollar slashy
 
         def folder =$/C:\groovy\something/$
+        def folder2 =/C:\groovy\something/
 
         println folder
+        println folder2
 
     }
 
