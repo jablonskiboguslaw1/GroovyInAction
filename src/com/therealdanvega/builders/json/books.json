@@ -1,0 +1,22 @@
+{
+    "books": [
+        {
+            "title": "Groovy in Action 2nd Edition",
+            "isbn": "978-1935182443",
+            "author": "Dierk Koenig",
+            "price": 50.58
+        },
+        {
+            "title": "Making Java Groovy",
+            "isbn": "978-1935182948",
+            "author": "Ken Kousen",
+            "price": 33.96
+        },
+        {
+            "title": "Programming Groovy 2: Dynamic Productivity for the Java Developer",
+            "isbn": "978-1937785307",
+            "author": "Venkat Subramaniam",
+            "price": 28.92
+        }
+    ]
+}
