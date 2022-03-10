@@ -2,7 +2,7 @@ package com.therealdanvega.builders
 
 import groovy.xml.MarkupBuilder
 
-books =
+bookss =
         [[
                  isbn  : "978-1935182443",
                  title : "Groovy in Action 2nd Edition",
@@ -23,7 +23,7 @@ books =
 MarkupBuilder mb = new MarkupBuilder()
 
 mb.books {
-    books.each { boo ->
+    bookss.each { boo ->
         book(isbn: boo.isbn) {
             title boo.title
             author boo.author
@@ -46,7 +46,7 @@ mb.html {
                 th("AUTHOR")
                 th("PRICE")
             }
-            books.each { book ->
+            bookss.each { book ->
                 tr {
                     td(book.isbn)
                     td(book.title)
