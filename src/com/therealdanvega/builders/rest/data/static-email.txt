@@ -1,0 +1,15 @@
+Dear someone,
+
+This is your monthly notification of your Github activity. You currently hava 40 repositories on Github and you
+had a total of 27 commits this month. We wanted to let you know that theses are your latest 3 repositories by activity.
+
+> Repo 1
+> Repo 2
+> Repo 3
+
+
+W thank you for your using of Github adn wish you another month of happy commiting.
+
+Thank You
+Github
+www.github.com
